@@ -34,4 +34,4 @@
 skuffies.dev@gmail.com.
 Please take note of the Swedish friday frog.*
 ***
- ![The Swedish Friday Frog](./public/img/frog.png)
+ ![The Swedish Friday Frog](./frog.png)
