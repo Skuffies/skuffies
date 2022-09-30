@@ -1,4 +1,4 @@
-## Welcome to my profile! :)
+## Welcome to my profile! :wave:
 ***
 #### About
 > Name: Emil Söderqvist
