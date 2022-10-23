@@ -5,9 +5,9 @@
 >
 > Ethnicity: Swedish
 >
-> Lanuages spoken: Swedish, English and a bit of French
+> Languages spoken: Swedish, English and a bit of French
 >
-> Birthday: 3rd of Semptember 2007
+> Birthday: 3rd of September 2007
 >
 > Occupation: Freshman in High School
 
