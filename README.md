@@ -7,7 +7,7 @@
 >
 > Languages spoken: Swedish, English and a bit of French
 >
-> Birthday: 3rd of September 2007
+> Birthday: 3rd of Novemember 2007
 >
 > Occupation: Freshman in High School
 
