@@ -1,6 +1,6 @@
-## Welcome to my profile! :wave:
+# Welcome to my profile! :wave:
 ***
-#### About
+## About
 > Name: Emil Söderqvist
 >
 > Ethnicity: Swedish
@@ -11,27 +11,8 @@
 >
 > Occupation: Freshman in High School
 
-#### Currently working on
+## Statistics
 
-> Discord Bot
->
-> Portfolio Website
->
-> Learning Typescript
->
-> Other Miscellaneous Projects
+![](https://github-readme-streak-stats.herokuapp.com?user=Skuffies&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 
-###### NOT LOOKING FOR
-- Freelancing oppertunities
-- Project collaborations (some exceptions)
-
-###### LOOKING FOR
-- Project suggestions
-- Friendly conversations :D
-
-
-*You can contact me by mail here:
-skuffies.dev@gmail.com.
-Please take note of the Swedish friday frog.*
-***
- ![The Swedish Friday Frog](./frog.png)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skuffies&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
