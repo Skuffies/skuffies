@@ -9,7 +9,7 @@
 >
 > Birthday: 3rd of November 2007
 >
-> Occupation: Freshman in High School
+> Going into a 3 year game development gymnasium.
 
 ## Statistics
 
